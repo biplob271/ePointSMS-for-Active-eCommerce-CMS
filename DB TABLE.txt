@@ -1,0 +1,1 @@
+INSERT INTO `otp_configurations`( `type`, `value`) VALUES ('epoint_sms','1');
